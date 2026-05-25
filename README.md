@@ -1,6 +1,10 @@
-# kg-diffusion-garment
+# 知識圖譜驅動之擴散模型服裝圖像生成
+### Diffusion-Based Garment Synthesis via Knowledge Graph-Driven Semantic Alignment
 
-> 以知識圖譜驅動語意對齊的擴散模型服裝圖像生成框架
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![Stable Diffusion](https://img.shields.io/badge/Model-Stable%20Diffusion%20v1.4-orange)
+![LoRA](https://img.shields.io/badge/Finetune-LoRA-green)
+![ControlNet](https://img.shields.io/badge/Control-ControlNet-purple)
 
 ## 論文資訊
 
